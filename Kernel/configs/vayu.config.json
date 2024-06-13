@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "POCOX3PRO",
       "repo": "https://github.com/Marius586/kernel_vayu_stock",
-      "branch": "TDA",
+      "branch": "stock",
       "device": "vayu",
       "defconfig": "vayu_user_defconfig"
     },
