@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "POCOX3PRO",
+      "name": "POCOX3PRO.2",
       "repo": "https://github.com/Marius586/kernel_xiaomi_vayu_upstream",
       "branch": "lion-openela",
       "device": "vayu2",
